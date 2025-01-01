@@ -1,0 +1,15 @@
+C:\Users\mi\Desktop\Build NotePad\Build NotePad\bin\Debug\Build NotePad.exe
+C:\Users\mi\Desktop\Build NotePad\Build NotePad\bin\Debug\Build NotePad.pdb
+C:\Users\mi\Desktop\Build NotePad\Build NotePad\obj\x86\Debug\Build NotePad.csprojResolveAssemblyReference.cache
+C:\Users\mi\Desktop\Build NotePad\Build NotePad\obj\x86\Debug\WindowsFormsApplication1.Form1.resources
+C:\Users\mi\Desktop\Build NotePad\Build NotePad\obj\x86\Debug\WindowsFormsApplication1.Properties.Resources.resources
+C:\Users\mi\Desktop\Build NotePad\Build NotePad\obj\x86\Debug\Build NotePad.csproj.GenerateResource.Cache
+C:\Users\mi\Desktop\Build NotePad\Build NotePad\obj\x86\Debug\Build NotePad.exe
+C:\Users\mi\Desktop\Build NotePad\Build NotePad\obj\x86\Debug\Build NotePad.pdb
+C:\Users\mi\Desktop\Build NotePad\Build NotePad\obj\x86\Debug\WindowsFormsApplication1.Form2.resources
+C:\Users\mi\Desktop\Build NotePad\Build NotePad\bin\Debug\Build NotePad.exe.config
+C:\Users\mi\Desktop\Build NotePad\Build NotePad\bin\Debug\Build NotePad.exe.manifest
+C:\Users\mi\Desktop\Build NotePad\Build NotePad\bin\Debug\Build NotePad.application
+C:\Users\mi\Desktop\Build NotePad\Build NotePad\obj\x86\Debug\Build NotePad.TrustInfo.xml
+C:\Users\mi\Desktop\Build NotePad\Build NotePad\obj\x86\Debug\Build NotePad.exe.manifest
+C:\Users\mi\Desktop\Build NotePad\Build NotePad\obj\x86\Debug\Build NotePad.application
