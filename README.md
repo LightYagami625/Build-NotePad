@@ -1,1 +1,3 @@
 # Build-NotePad
+This is My First Project I Built usind C# and .NET FrameWork.
+This is still in Devlopment...
